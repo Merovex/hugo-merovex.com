@@ -1,0 +1,39 @@
+---
+photo:
+  image: 3702176604_if-it-makes-you-fly.jpg
+  creator: notsogoodphotography/Flickr
+  url: http://www.flickr.com/photos/notsogoodphotography
+  license: under CC license
+  caption: Man jumping into ocean
+title: Not Gone, Just Distracted
+created_at: 2012-02-28 14:49
+modified_at: 2012-02-28 14:49
+published_at: 2012-02-28 14:49
+date: 2012-02-28 14:49
+comments: true
+sidebar: true
+category: Diary
+image: 3702176604_if-it-makes-you-fly.jpg
+author: Ben Wilson
+keywords: writing, plan, goals
+description: Ben Wilson is still around.
+tags:
+- Writing Progress
+---
+
+Today I took a look at the Dausha Publishing website. My last blog post was in August. Over six months ago. Have I disappeared?
+<!-- more -->
+
+The short answer is no. If that's all you are looking for, then you can move on to the next article.
+
+The longer answer is I hit a bit of a roadblock with Luctation. The novel was moving well, but I did little research into the milieu. Call it artistic debt, much like technical debt for developers. The further I wrote, the more the debt accumulated. Eventually, I got to the point where continuing writing was mentally challenging. Not the writing, but my inability to tolerate the debt.
+
+Maybe you could call that writer's block. We've all had that phase, right? When I think of the story  I get excited. But, I recognized without the background research---er, development...who can call fleshing out a fiction setting research---the story was grinding to a halt.
+
+So I took a break. Simple as that. I let my sub-conscience chew on the problem a bit until I was ready to take it on again. Muse is like a mule---it won't be pushed when it does not want to. I lifted weights. I started a side project, focused on friends and family, and just stayed away from the story.
+
+I'm on my way back now. By reading the rules for the table top RPG *Traveller*, I started developing the milieu at the star system level. I finally have a map that resembles the Imperial Core Worlds. I've placed Copa, home of Scintilla, on the map in its own backwater. With a map my mind starts to process the other challenges not developing a milieu created. Once I've retrofit Luctation's systems into the map, I can move forward.
+
+A friend once told me that progress is not always moving forward. Progress is sometimes stopping or backtracking. The past six months have been idle progress.
+
+As an author, how do you justify your artistic break?

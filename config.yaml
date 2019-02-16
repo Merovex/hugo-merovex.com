@@ -1,0 +1,4 @@
+baseURL: "http://merovex.com/"
+languageCode: "en-us"
+title: "Merovex"
+theme: "merovex-light"
