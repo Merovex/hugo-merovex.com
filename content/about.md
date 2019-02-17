@@ -5,7 +5,6 @@ permalink: /about/
 
 <!-- vogel-harvey-novak-cp-tot-trim -->
 
-<br>
 Merovex is the imprint for some of the worst science fiction you will ever read. I'll just leave it at that.
 
 ## About Ben Wilson
