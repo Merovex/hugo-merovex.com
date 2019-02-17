@@ -1,6 +1,5 @@
 ---
 title: About
-permalink: /about/
 ---
 
 <!-- vogel-harvey-novak-cp-tot-trim -->

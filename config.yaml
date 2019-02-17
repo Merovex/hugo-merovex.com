@@ -2,3 +2,32 @@ baseURL: "http://merovex.com/"
 languageCode: "en-us"
 title: "Merovex"
 theme: "merovex-light"
+copyright: 1998
+taxonomies:
+  tag: tags
+  category: categories
+
+author:
+  name: Ben Wilson
+  github: spf13
+  linkedin: YOUR LINKEDIN ID
+  facebook: YOUR FB ID
+  gaID: YOUR Google Analytics Tracking ID
+
+menu:
+  main:
+  - identifier: about
+    name: About
+    title: About Ben Wilson
+    url: /about/
+    weight: -110
+  - identifier: books
+    name: Books
+    title: My Books
+    url: /books/
+    weight: -110
+  - identifier: posts
+    name: Journal
+    title: My Posts
+    url: /posts/
+    weight: -110
