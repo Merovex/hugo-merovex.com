@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 5705122218_550e9d5f83-Heroes.jpg
+  image: 5705122218-550e9d5f83-heroes.jpg
   creator: Cåsbr/Flickr
   url: http://www.flickr.com/photos/69275268@N00/5705122218/
   license: under CC BY 2.0
@@ -8,7 +8,7 @@ photo:
 title: Heroes for More than One Season
 created_at: 2011-09-17 14:51
 date: 2011-09-17T14:51:00-04:00
-image: 5705122218_550e9d5f83-Heroes.jpg
+image: 5705122218-550e9d5f83-heroes.jpg
 author: Ben Wilson
 categories: ["Writing"]
 keywords: writing, plan, goals

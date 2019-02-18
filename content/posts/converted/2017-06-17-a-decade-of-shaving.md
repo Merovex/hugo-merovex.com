@@ -5,7 +5,7 @@ description: I've used a safety razor for a decade, with some pleasant results.
 categories: ["Diary"]
 tags: []
 photo:
-  image: 858748400_fb8cb3a848_b.jpg
+  image: 858748400-c5bb4d9325-o.jpg
   creator: Matt Thompson/Flickr
   url: https://www.flickr.com/photos/mthomps/858748400
   license: under CC BY-SA 2.0

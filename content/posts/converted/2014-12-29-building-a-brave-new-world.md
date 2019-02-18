@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 15020291797_c93308380b_z-worldbuilding.jpg
+  image: 15020291797-c93308380b-z-worldbuilding.jpg
   creator: Erika Gilraen Loss/Flickr
   url: https://www.flickr.com/photos/gilraenm/15020291797/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: Building a Brave New World
 created_at: 2014-12-29 09:48
 date: 2014-12-29T09:48:45-05:00
-image: 15020291797_c93308380b_z-worldbuilding.jpg
+image: 15020291797-c93308380b-z-worldbuilding.jpg
 categories: ["Worldbuilding"]
 keywords: writing, plan, goals
 description: I'd like to share with you a curious approach to world-building geography.

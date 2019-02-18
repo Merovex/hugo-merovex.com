@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 503020765_dd1efcf5fc-Friends.jpg
+  image: 503020765-dd1efcf5fc-friends.jpg
   creator: notsogoodphotography/Flickr
   url: http://www.flickr.com/photos/49512158@N00/503020765/
   license: under CC BY 2.0
@@ -8,7 +8,7 @@ photo:
 title: When Friends Take a Turn for the Worse
 created_at: 2011-08-05 14:54
 date: 2011-08-05T14:54:00-04:00
-image: 503020765_dd1efcf5fc-Friends.jpg
+image: 503020765-dd1efcf5fc-friends.jpg
 author: Ben Wilson
 categories: ["postal marine series"]
 keywords: writing, plan, goals

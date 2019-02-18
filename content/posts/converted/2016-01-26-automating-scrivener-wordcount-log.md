@@ -5,7 +5,7 @@ description: "While shifting to Scrivener, I share how I automatically update my
 categories: ["Technology"]
 tags: [Scrivener, GitHub as an Author]
 photo:
-  image: 5171765778_239c899bfd_o.png
+  image: 5171765778-239c899bfd-o.jpg
   creator: Morten Oddvik/Flickr
   url: https://www.flickr.com/photos/97522422@N00/5171765778/
   license: under CC BY 2.0

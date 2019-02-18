@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 8401726003_e980bab730.jpg
+  image: 8401726003-e980bab730.jpg
   creator: Tambako the Jaguar/Flickr
   url: http://www.flickr.com/photos/tambako/8401726003/sizes/m/
   license: under BY-ND
@@ -8,7 +8,7 @@ photo:
 title: It's Not Really Three Acts
 created_at: 2012-07-03 15:36
 date: 2012-07-03T15:36:00-04:00
-image: 8401726003_e980bab730.jpg
+image: 8401726003-e980bab730.jpg
 author: Ben Wilson
 categories: ["Writing"]
 keywords: writing, plan, goals

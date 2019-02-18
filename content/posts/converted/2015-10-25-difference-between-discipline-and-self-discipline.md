@@ -5,7 +5,7 @@ description: "I recently hit upon a definition of self-discipline that struck a 
 categories: ["Diary"]
 tags: []
 photo:
-  image: 11384364343_b000dbdb8b_k.jpg
+  image: 11384364343-b000dbdb8b-k.jpg
   creator: Raw Herring/Flickr
   url: https://www.flickr.com/photos/42096237@N00/11384364343/
   license: under CC BY-SA 2.0

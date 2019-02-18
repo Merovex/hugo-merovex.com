@@ -1,6 +1,6 @@
 ---
 photo:
-  image: shutterstock_200353601-copyright.jpg
+  image: shutterstock-200353601-copyright.jpg
   creator: sergign/Shutterstock
   url: "#"
   license: UNK
@@ -8,7 +8,7 @@ photo:
 title: How I Protect My Copyright
 created_at: 2010-12-18 17:47
 date: 2010-12-18T17:47:00-05:00
-image: shutterstock_200353601-copyright.jpg
+image: shutterstock-200353601-copyright.jpg
 author: Ben Wilson
 legal: true
 categories: ["Writing"]

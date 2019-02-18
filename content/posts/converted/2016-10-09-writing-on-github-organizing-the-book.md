@@ -8,7 +8,7 @@ tags:
  - Publishing
 photo:
     license: "Public Domain"
-    image: Walentin_Alexandrowitsch_Serow_004.jpg
+    image: walentin-alexandrowitsch-serow-004.jpg
     creator: Public Domain
     url: https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov#/media/File:Rimsky-Korsakov_Serow_crop.png
     caption: "Portrait of Nikolai Rimsky-Korsakov in 1898"
@@ -20,8 +20,8 @@ With another NaNoWriMo looming, plotting authors should be well on the way to or
 
 <!--more-->
 
-I'm about to take a hard right turn in my writing, postponing the Postal Marine series to take on a different project to try to reprime my pump. This includes using NaNoWriMo to give me a deadline. 
-I have previously discussed [GitHub for organizing a novel series](/posts/writing-on-github/) and my use of a Ruby gem [Verku for converting Markdown text files into paperback and Kindle formats](/posts/unsharpening-the-axe/). 
+I'm about to take a hard right turn in my writing, postponing the Postal Marine series to take on a different project to try to reprime my pump. This includes using NaNoWriMo to give me a deadline.
+I have previously discussed [GitHub for organizing a novel series](/posts/writing-on-github/) and my use of a Ruby gem [Verku for converting Markdown text files into paperback and Kindle formats](/posts/unsharpening-the-axe/).
 
 **But what about the single novel?**
 
@@ -30,7 +30,7 @@ GitHub's best practices provides me as an author all I need to organize my proje
 I remain a fan of the [Snowflake Method](http://www.advancedfictionwriting.com/art/snowflake.php), and this will be revealed in this post. I also break my stories into [four acts](/posts/its-not-really-three-acts/). Beyond showing how I'm organizing this book, there's not much more to say. Let me know if you find this helpful.
 
 **README.md**
-: GitHub has built-in features that are designed for organization. The basic one is the README.md file. If you look at any GitHub repository, you will see that the README.md file is displayed right below the file listing. This is intended to be the summary of the entire project. It's written in Markdown and compiled into HTML. I won't explain this file as there are many who have done a better job than I can. Below I provide a sample of what I'm using for my book. 
+: GitHub has built-in features that are designed for organization. The basic one is the README.md file. If you look at any GitHub repository, you will see that the README.md file is displayed right below the file listing. This is intended to be the summary of the entire project. It's written in Markdown and compiled into HTML. I won't explain this file as there are many who have done a better job than I can. Below I provide a sample of what I'm using for my book.
 
 **Plot**
 : Snowflake 1, 2, 4, and 6 cover the plot. I chose to keep this content on the README.md.
@@ -66,7 +66,7 @@ I remain a fan of the [Snowflake Method](http://www.advancedfictionwriting.com/a
 
 **Themes:**
 
-* Etiam mollis leo quis orci ullamcorper blandit. 
+* Etiam mollis leo quis orci ullamcorper blandit.
 * Aliquam at dolor gravida, aliquam nisl vitae, congue augue.
 
 ## Characters
@@ -108,7 +108,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac fringilla lore
 
 For each of your major characters, take an hour and write a one-page summary sheet. -->
 
-<NAME> is the sort of person who describes himself/herself as (DESCRIPTIVE PHRASE). If called on to use a single adjective to describe they’d use (ADJECTIVE). Friends, family and co-workers say they’re best known for (ACCOMPLISHMENT). When people first meet them, they notice their (PHYSICAL TRAITS AND PERSONALITY), then they notice that (TRAITS THAT ADD OR POSSIBLY CONTRADICT DOMINANT TRAITS). Because of his/her, he/she needs to prove that (EMOTIONAL NEED IN THE STORY). Also because of the past, he/she fears that (DREADED ALTERNATIVE) and will (PLAN OF ACTION, GOALS) to prevent it. 
+<NAME> is the sort of person who describes himself/herself as (DESCRIPTIVE PHRASE). If called on to use a single adjective to describe they’d use (ADJECTIVE). Friends, family and co-workers say they’re best known for (ACCOMPLISHMENT). When people first meet them, they notice their (PHYSICAL TRAITS AND PERSONALITY), then they notice that (TRAITS THAT ADD OR POSSIBLY CONTRADICT DOMINANT TRAITS). Because of his/her, he/she needs to prove that (EMOTIONAL NEED IN THE STORY). Also because of the past, he/she fears that (DREADED ALTERNATIVE) and will (PLAN OF ACTION, GOALS) to prevent it.
 
 **Role**
 : Confidant
@@ -130,7 +130,7 @@ For each of your major characters, take an hour and write a one-page summary she
 : Lorem ipsum dolor sit met, consectetur adipiscing elit. Diis pulvinar diam ac bibendum tempor. Vivamus porttutor turpis ac elit tempor semper. Donec vulputate ullamcorper augue.him over the verge of insanity.
 
 **Epiphany**
-: Lorem ipsum dolor sit met, consectetur adipiscing elit. Diis pulvinar diam ac bibendum tempor. Vivamus porttutor turpis ac elit tempor semper. Donec vulputate ullamcorper augue. 
+: Lorem ipsum dolor sit met, consectetur adipiscing elit. Diis pulvinar diam ac bibendum tempor. Vivamus porttutor turpis ac elit tempor semper. Donec vulputate ullamcorper augue.
 
 |Positive Trait | 5 | 4 | 3 | 2 | 1 |  Negative Trait
 |---------------+---+---+---+---+---+---|

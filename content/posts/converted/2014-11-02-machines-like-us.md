@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 3318600273_3ef4c48d0a_b-Machine.jpg
+  image: 3318600273-3ef4c48d0a-b-machine.jpg
   creator: brewbooks/Flickr
   url: https://www.flickr.com/photos/93452909@N00/3318600273/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: Machines Like Us
 created_at: 2014-11-02 12:30
 date: 2014-11-02T12:30:06-05:00
-image: 3318600273_3ef4c48d0a_b-Machine.jpg
+image: 3318600273-3ef4c48d0a-b-machine.jpg
 categories: ["postal marine series"]
 description: Computers will soon become more intelligent than us. Some of the best brains in Silicon Valley are now trying to work out what happens next.
 author: Ben Wilson

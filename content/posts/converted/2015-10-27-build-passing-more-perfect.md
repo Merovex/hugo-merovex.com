@@ -5,7 +5,7 @@ description: For the first time in years, I have a website that has been fully v
 categories: ["Technology"]
 tags: [Jekyll, Travis CI]
 photo:
-  image: 3940632819_f639081358_b.jpg
+  image: 3940632819-f639081358-b.jpg
   creator: Marco Alioli/Flickr
   url: https://www.flickr.com/photos/23688471@N07/3940632819
   license: under CC BY-ND 2.0

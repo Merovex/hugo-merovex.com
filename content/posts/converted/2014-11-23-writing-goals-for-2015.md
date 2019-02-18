@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 3193517030_b9b9c1b635_b.jpg
+  image: 3193517030-b9b9c1b635-b.jpg
   creator: Kris Krug/Flickr
   url: https://www.flickr.com/photos/49503002894@N01/3193517030/
   license: under CC BY-SA 2.0
@@ -9,7 +9,7 @@ layout: single
 title: Writing Goals for 2015
 created_at: 2014-11-23 12:00
 date: 2014-11-23T12:00:54-05:00
-image: 3193517030_b9b9c1b635_b.jpg
+image: 3193517030-b9b9c1b635-b.jpg
 categories: ["Diary"]
 keywords: writing, plan, goals
 description: November is barely half-over and I'm making 2015's writing plans. This year has been very educational in terms of writing under something resembling a schedule. I'd like to make the most of it.

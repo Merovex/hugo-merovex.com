@@ -8,7 +8,7 @@ tags:
   - Amazon
   - Jekyll
 photo:
-  image: 3887934311_1476c75b17_b.jpg
+  image: 3887934311-1476c75b17-b.jpg
   creator: SuperFantastic/Flickr
   url: https://www.flickr.com/photos/35423169@N00/3887934311/
   license: under CC BY 2.0

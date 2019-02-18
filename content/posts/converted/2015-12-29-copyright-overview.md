@@ -6,7 +6,7 @@ description: "Registered or not, an Author has a responsibility to ensure they c
 categories: ["Writing"]
 tags: [Copyright, Legal, Scrivener]
 photo:
-  image: 18804755512_690e596a55_o.jpg
+  image: 18804755512-690e596a55-o.jpg
   creator: 'Anton Vakulenko/Flickr '
   url: 'https://www.flickr.com/photos/59043180@N08/18804755512/'
   license: CC BY-SA 2.0

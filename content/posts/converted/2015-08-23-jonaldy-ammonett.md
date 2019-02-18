@@ -1,6 +1,6 @@
 ---
 photo:
-  image: Luctation.jpg
+  image: luctation.jpg
   creator: Ben Wilson
   url: http://dausha.net
   license: Rights Reserved, created by Donna Murillo
@@ -8,7 +8,7 @@ photo:
 title: Jonaldy Ammonett
 author: Ben Wilson
 description: 'As I am editing Luctation, I wanted to chat a bit about the main character: Jonaldy Ammonett. He starts lowly and insecure, but we see eventually that he rises to be a real power in and of himself.'
-image: Luctation.jpg
+image: luctation.jpg
 categories: ["postal marine series"]
 date: 2015-08-23T09:42:00-04:00
 created_at: 2015-08-23 08:41

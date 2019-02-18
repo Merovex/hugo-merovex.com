@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 477374180_war-naughty-boy.jpg
+  image: 477374180-war-naughty-boy.jpg
   creator: missfitzphotos/Flickr
   url: https://www.flickr.com/photos/49169620@N00/477374180/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: 'June: A Naughty Boy'
 created_at: 2014-06-21 07:50
 date: 2014-06-21T07:50:14-04:00
-image: 477374180_war-naughty-boy.jpg
+image: 477374180-war-naughty-boy.jpg
 categories: ["Diary"]
 keywords: writing, plan, goals
 description: Ben Wilson's Progress in June is dismal.

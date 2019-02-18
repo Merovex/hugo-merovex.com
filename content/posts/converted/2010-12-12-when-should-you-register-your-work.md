@@ -1,6 +1,6 @@
 ---
 photo:
-  image: shutterstock_200353601-copyright.jpg
+  image: shutterstock-200353601-copyright.jpg
   creator: sergign/Shutterstock
   url: "#"
   license: UNK
@@ -9,7 +9,7 @@ title: When to Register Your Work
 created_at: 2010-12-12 17:47
 date: 2010-12-12T17:47:00-05:00
 legal: true
-image: shutterstock_200353601-copyright.jpg
+image: shutterstock-200353601-copyright.jpg
 author: Ben Wilson
 categories: ["Writing"]
 description: "Ben Wilson suggests there's too much bad advice on copyrighting, and proceeds to offer more bad advice."

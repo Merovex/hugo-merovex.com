@@ -5,7 +5,7 @@ description: "Authors have a chance to automatically archive their Scrivener fil
 categories: ["Technology"]
 tags: [Scrivener, GitHub as an Author]
 photo:
-  image: Kempelen_chess1.jpg
+  image: kempelen-chess1.jpg
   creator: Jan.Kamenicek
   url: "https://en.wikipedia.org/wiki/The_Turk#/media/File:Kempelen_chess1.jpg"
   license: under CC BY-SA 2.0

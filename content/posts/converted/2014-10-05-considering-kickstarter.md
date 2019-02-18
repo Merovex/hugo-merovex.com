@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 2692469539_bdcea8c064-typewriter.jpg
+  image: 2692469539-bdcea8c064-typewriter.jpg
   creator: mpclemens/Flickr
   url: https://www.flickr.com/photos/24364103@N04/2692469539/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: Considering Kickstarter
 created_at: 2014-10-05 07:42
 date: 2014-10-05T07:42:18-04:00
-image: 2692469539_bdcea8c064-typewriter.jpg
+image: 2692469539-bdcea8c064-typewriter.jpg
 categories: ["Diary"]
 description: With nearly four novels written and two published, now is the time to
   take a step back and have them professionally edited.

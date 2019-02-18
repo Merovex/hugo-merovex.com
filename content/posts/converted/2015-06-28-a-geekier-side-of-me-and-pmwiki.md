@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 288389345_pmwiki_o.png
+  image: 288389345-pmwiki-o.jpg
   creator: Ben Wilson
   url: http://dausha.net
   license: CC BY 2.0
@@ -8,7 +8,7 @@ photo:
 title: A Geekier Side of Me and PmWiki
 created_at: 2015-01-19 06:11
 date: 2015-06-28T06:58:00-04:00
-image: 288389345_pmwiki_o.png
+image: 288389345-pmwiki-o.jpg
 categories: ["Technology"]
 description: The developer side of me keeps tweaking my writing toolchain. I keep
   coming back to PmWiki, and wrote a Sublime Text plugin to help me do it the way

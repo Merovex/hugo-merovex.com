@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 29044558485_9a62351d12_o.jpg
+  image: 29044558485-9a62351d12-o.jpg
   creator: Jeffrey Camphens
   url: https://www.flickr.com/photos/144590555@N07/29044558485/
   license: under CC BY 2.0

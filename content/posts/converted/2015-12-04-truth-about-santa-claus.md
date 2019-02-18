@@ -5,7 +5,7 @@ description: Forget what you thought you knew about Santa Claus. He's real.
 categories: ["Diary"]
 tags: [Truth, Christmas, Naughty, Humor, Holiday]
 photo:
-  image: 3137198786_896818213a_o-santa.jpg
+  image: 3137198786-896818213a-o-santa.jpg
   creator: Seattleye/Flickr
   url: https://www.flickr.com/photos/10368024@N04/3137198786/
   license: under CC BY 2.0

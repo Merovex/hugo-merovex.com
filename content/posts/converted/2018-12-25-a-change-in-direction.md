@@ -5,7 +5,7 @@ description: Is it time to put aside my dream of being a writer?
 categories: ['diary']
 tags: ['writing','goals']
 photo:
-  image: landscape-tree-nature-mountain-road-sunlight-1346421-pxhere.com.jpg
+  image: landscape-tree-nature-mountain-road-sunlight-1346421-pxhere-com.jpg
   creator: PXHERE
   url: https://pxhere.com/en/photo/1346421
   license: Public Domain (CC0)

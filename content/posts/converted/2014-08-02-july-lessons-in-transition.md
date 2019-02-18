@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 4738792692_0af05c986e_o.jpg
+  image: 4738792692-0af05c986e-o.jpg
   creator: Hartwig HKD/Flickr
   url: https://www.flickr.com/photos/h-k-d/
   license: under CC BY-N
@@ -9,7 +9,7 @@ layout: single
 title: 'July Progress: Lessons in Transition'
 created_at: 2014-08-02 08:10
 date: 2014-08-02T08:10:15-04:00
-image: 4738792692_0af05c986e_o.jpg
+image: 4738792692-0af05c986e-o.jpg
 categories: ["Diary"]
 keywords: writing, diary, goals
 description: July has been a curious month of transition.

@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 8387491968_cd9707ebbb_b-Snowbird.jpg
+  image: 8387491968-cd9707ebbb-b-snowbird.jpg
   creator: pixelshoot/Flickr
   url: https://www.flickr.com/photos/69070275@N03/8387491968/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ title: Progress in Winter 2015
 author: Ben Wilson
 description: A friend asked me this week about my writing. So, I figured it was time
   to report slow going.
-image: 8387491968_cd9707ebbb_b-Snowbird.jpg
+image: 8387491968-cd9707ebbb-b-snowbird.jpg
 categories: ["Diary"]
 date: 2015-02-21T22:07:00-05:00
 created_at: 2015-02-21 20:53

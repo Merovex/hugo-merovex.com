@@ -8,7 +8,7 @@ date: 2016-02-06T14:53:31-05:00
 author: Ben Wilson
 photo:
     license: "CC BY 2.0"
-    image: 14552700184_d0e048446f_o.jpg
+    image: 14552700184-d0e048446f-o.jpg
     creator: Daquella manera/Flickr
     url: https://www.flickr.com/photos/62518311@N00/14552700184/
     caption: "Packard Automotive Plant, Detroit"

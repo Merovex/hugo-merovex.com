@@ -5,7 +5,7 @@ description: "A Navy Seal with 36-years of experience shares 10 life lessons."
 categories: ["Diary"]
 tags: []
 photo:
-  image: SealCommander.png
+  image: sealcommander.jpg
   creator: UT Austin
   url: https://www.youtube.com/watch?v=yaQZFhrW0fU
   license: Rights Reserved

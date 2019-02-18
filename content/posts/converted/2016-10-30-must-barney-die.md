@@ -6,7 +6,7 @@ tags:
  - Holiday
 photo:
     license: "CC BY 2.0"
-    image: 29995380264_ab8bbfa329_o.jpg
+    image: 29995380264-ab8bbfa329-o.jpg
     creator: Prestonbot/Flickr
     url: https://www.flickr.com/photos/116451027@N08/29995380264/
     caption: "A pumpkin dreams of Halloween"

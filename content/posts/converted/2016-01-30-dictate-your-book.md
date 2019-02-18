@@ -6,7 +6,7 @@ tags:
   - Bad Advice
 date: 2016-01-30T10:56:46-05:00
 photo:
-  image: "4125488159_6f16dd9c31_o.jpg"
+  image: 4125488159-6f16dd9c31-o.jpg
   caption: "Dragonfly on the Mic"
   url: https://www.flickr.com/photos/40648743@N00/4125488159/
   creator: Jitze Couperus/Flickr

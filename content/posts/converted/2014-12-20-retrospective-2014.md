@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 6222335233_351df8ec41_b.jpg
+  image: 6222335233-351df8ec41-b.jpg
   creator: halfrain/Flickr
   url: https://www.flickr.com/photos/54217251@N05/6222335233/
   license: under CC BY-SA 2.0

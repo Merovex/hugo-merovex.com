@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 5291096057_el-cid-silhouetted.jpg
+  image: 5291096057-el-cid-silhouetted.jpg
   creator: Keoni Cabral/Flickr
   url: http://www.flickr.com/photos/keoni101/5291096057/sizes/m/
   license: under CC-License
@@ -8,7 +8,7 @@ photo:
 title: Three Words and Amazon
 created_at: 2013-01-01 10:04
 date: 2013-01-01T10:04:00-05:00
-image: 5291096057_el-cid-silhouetted.jpg
+image: 5291096057-el-cid-silhouetted.jpg
 categories: ["Diary"]
 keywords: writing, plan, goals
 description: Ben Wilson gives the three words he thinks will defined 2013.

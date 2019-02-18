@@ -8,7 +8,7 @@ tags:
  - Publishing
 photo:
     license: "CC BY 2.0"
-    image: 28385505785_aea1413a6a_k.jpg
+    image: 28385505785-3bf2146ece-o.jpg
     creator: fredisonfire/Flickr
     url: https://www.flickr.com/photos/29442760@N00/28385505785/
     caption: "Exile on Ontario St"

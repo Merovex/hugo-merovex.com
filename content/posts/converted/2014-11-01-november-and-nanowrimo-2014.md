@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 4768985621_writer-lamp.jpg
+  image: 4768985621-writer-lamp.jpg
   creator: jDevaun.Photography/Flickr
   url: "#"
   license: under CC BY-ND 2.0
@@ -9,7 +9,7 @@ layout: single
 title: November and NaNoWriMo 2014
 created_at: 2014-11-01 19:22
 date: 2014-11-01T19:22:11-04:00
-image: 4768985621_writer-lamp.jpg
+image: 4768985621-writer-lamp.jpg
 categories: ["Diary"]
 description: Looking at my progress for 2014, I've not written a word since 24 August.
   I am now 37,299 words behind schedule. Can NaNoWriMo save me?

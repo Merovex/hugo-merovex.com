@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 1574931134-AgileBoard.jpg
+  image: 1574931134-agileboard.jpg
   creator: Improve It/Flickr
   url: http://www.flickr.com/photos/improveit/1574931134/sizes/m/
   license: under CC-License
@@ -8,7 +8,7 @@ photo:
 title: Agile Publishing Model
 created_at: 2012-09-14 11:09
 date: 2012-09-14T11:09:00-04:00
-image: 1574931134-AgileBoard.jpg
+image: 1574931134-agileboard.jpg
 categories: ["Writing"]
 keywords: writing, publishing
 description: "Since he's a self-publisher, Ben Wilson discusses the Agile Publishing Model as a way to progressively improve a novel."

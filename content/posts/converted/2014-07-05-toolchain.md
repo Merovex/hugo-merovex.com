@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 5060103696_625ba60116_z-chain.jpg
+  image: 5060103696-625ba60116-z-chain.jpg
   creator: aspis7/Flickr
   url: https://www.flickr.com/photos/aspis7/5060103696/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: My Toolchain Using Bookmaker
 created_at: 2014-07-05 10:29
 date: 2014-07-05T10:29:21-04:00
-image: 5060103696_625ba60116_z-chain.jpg
+image: 5060103696-625ba60116-z-chain.jpg
 categories: ["Technology"]
 description: Ben Wilson, author, discusses how he writes, edits and publishes a novel.
 author: Ben Wilson

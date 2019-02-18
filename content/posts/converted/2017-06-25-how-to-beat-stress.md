@@ -5,7 +5,7 @@ description: Stress in our lives is best addressed by realizing we're never alon
 categories: ["philosophy"]
 tags: [Bad Advice]
 photo:
-  image: iStock_000006257367_PrayingTooHard.jpg
+  image: istock-000006257367-prayingtoohard.jpg
   creator: princessdlaf/iStockphoto
   url: '"http://www.istockphoto.com/stock-photo-6257367-praying-really-hard.php"'
   license: Rights Reserved, Under License

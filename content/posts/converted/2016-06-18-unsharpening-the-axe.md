@@ -10,7 +10,7 @@ tags:
  - Markdown
 photo:
     license: "CC BY 2.0"
-    image: 27265564416_850881998f_k.jpg
+    image: 27265564416-850881998f-k.jpg
     creator: Alan Levine/Flickr
     url: https://www.flickr.com/photos/37996646802@N01/27265564416/
     caption: "Rusted Scout Axe"

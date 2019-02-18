@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 7871348700_3af6a3d944_z-guitar.jpg
+  image: 7871348700-3af6a3d944-z-guitar.jpg
   creator: Martin Fisch/Flickr
   url: https://www.flickr.com/photos/marfis75/
   license: under CC BY-SA 2.0
@@ -9,7 +9,7 @@ layout: single
 title: So I'm building a VO sound booth, Pt 2
 created_at: 2014-08-31 11:12
 date: 2014-08-31T11:12:58-04:00
-image: 7871348700_3af6a3d944_z-guitar.jpg
+image: 7871348700-3af6a3d944-z-guitar.jpg
 categories: ["Technology"]
 keywords: vo, voice over, sound booth, iso booth, audio book
 description: Ben continues to discuss evil malchinations of an aspiring voice-over

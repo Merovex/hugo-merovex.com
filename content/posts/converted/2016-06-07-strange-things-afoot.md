@@ -5,7 +5,7 @@ description: Given a choice between writing and updating the webiste, the websit
 categories: ["Diary"]
 tags: [Website]
 photo:
-  image: 25073539962_6fa58058d3_o.jpg
+  image: 25073539962-6fa58058d3-o.jpg
   creator: DC Master/Flickr
   url: https://www.flickr.com/photos/76224602@N00/25073539962/
   license: under CC BY-SA 2.0

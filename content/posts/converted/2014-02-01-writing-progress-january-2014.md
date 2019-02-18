@@ -1,6 +1,6 @@
 ---
 photo:
-  image: january-2014.png
+  image: january-2014.jpg
   creator: Ben Wilson
   url: http://dausha.net
   license: Rigths Reserved
@@ -11,7 +11,7 @@ created_at: 2014-02-01 09:04
 date: 2014-02-01T09:04:48-05:00
 categories: ["Diary"]
 description: "Ben offers a retrospective on his first month of writing with a goal and visual analytics."
-image: january-2014.png
+image: january-2014.jpg
 tags:
 - Writing Progress
 ---

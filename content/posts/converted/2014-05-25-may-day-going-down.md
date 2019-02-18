@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 2781511209_fdd2f7ee27_z.jpg
+  image: 2781511209-fdd2f7ee27-z.jpg
   creator: Kenny Louis/Flickr
   url: https://flic.kr/p/5eMYnP
   license: CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: 'May: May Day! Going Down!'
 created_at: 2014-05-25 20:20
 date: 2014-05-25T20:20:02-04:00
-image: 2781511209_fdd2f7ee27_z.jpg
+image: 2781511209-fdd2f7ee27-z.jpg
 categories: ["Diary"]
 description: May was a rough month, but hope remains.
 author: Ben Wilson

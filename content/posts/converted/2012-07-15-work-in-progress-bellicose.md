@@ -1,6 +1,6 @@
 ---
 photo:
-  image: bellicose_redo_wallpaper.jpg
+  image: bellicose-redo-wallpaper.jpg
   creator: DHM Designs
   url: "#"
   license: Rights Reserved
@@ -8,7 +8,7 @@ photo:
 title: 'Work in Progress: Bellicose'
 created_at: 2012-07-15 15:26
 date: 2012-07-15T15:26:00-04:00
-image: bellicose_redo_wallpaper.jpg
+image: bellicose-redo-wallpaper.jpg
 categories: ["postal marine series"]
 keywords: writing, plan, goals
 description: Ben Wilson is glad that Bellicose is in pre-production.

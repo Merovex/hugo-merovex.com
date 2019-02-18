@@ -6,7 +6,7 @@ categories: ["Writing"]
 tags: [Copyright, Legal]
 series: Copyright
 photo:
-  image: 5745387762_1e9ec0cc1e_o.jpg
+  image: 5745387762-1e9ec0cc1e-o.jpg
   creator: 'Walt Stoneburner/Flickr'
   url: 'https://www.flickr.com/photos/8404611@N06/5745387762/'
   license: CC BY 2.0

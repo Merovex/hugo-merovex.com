@@ -5,7 +5,7 @@ categories: ["postal marine series"]
 tags: 
   - Forbearance
 photo:
-  image: Luctation.jpg
+  image: luctation.jpg
   creator: Ben Wilson
   url: http://dausha.net
   license: Rights Reserved, created by Donna Murillo

@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 2843144877_fd9593fdca_b.jpg
+  image: 2843144877-fd9593fdca-b.jpg
   creator: Benjamin A. Smith/Flickr
   url: https://www.flickr.com/photos/25178143@N04/2843144877/
   license: under CC BY-SA 2.0
@@ -9,7 +9,7 @@ layout: single
 title: A Year of Audible, 2014
 created_at: 2014-11-28 17:32
 date: 2014-11-28T17:32:01-05:00
-image: 2843144877_fd9593fdca_b.jpg
+image: 2843144877-fd9593fdca-b.jpg
 categories: ["Diary"]
 tags: [Audible, Listening Experience, Retrospective]
 description: I'd like to share what I've learned from a year of using Audible.

@@ -9,7 +9,7 @@ tags:
  - Writing
 photo:
     license: "CC BY 2.0"
-    image: 27885942080_8ee02f5187_o.jpg
+    image: 27885942080-8ee02f5187-o.jpg
     creator: Tseen Khoo/Flickr
     url: https://www.flickr.com/photos/144965429@N03/27885942080/
     caption: "It's not chaos but creation"

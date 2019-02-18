@@ -1,6 +1,6 @@
 ---
 photo:
-  image: january-2014.png
+  image: january-2014.jpg
   creator: Ben Wilson
   url: http://dausha.net
   license: CC BY 4.0
@@ -9,7 +9,7 @@ layout: single
 title: Additional Progress Tracking
 created_at: 2014-02-12 16:50
 date: 2014-02-12T16:50:30-05:00
-image: january-2014.png
+image: january-2014.jpg
 categories: ["Diary"]
 keywords: writing, plan, goals
 description: I added a third progress chart to build confidence in my writing.

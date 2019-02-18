@@ -9,7 +9,7 @@ tags:
 - Ombrio
 - Postal Marines Series
 photo:
-  image: 1024px-Flotsam_on_Terschelling.jpg
+  image: 1024px-flotsam-on-terschelling.jpg
   creator: Robert de Jong
   url: "https://en.wikipedia.org/wiki/Flotsam,_jetsam,_lagan,_and_derelict#/media/File:Flotsam_on_Terschelling.JPG"
   license: under CC BY-SA 3.0

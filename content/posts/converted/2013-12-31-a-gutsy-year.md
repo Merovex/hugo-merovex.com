@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 5366637592_perseverance.jpg
+  image: 5366637592-perseverance.jpg
   creator: LifeSupercharger/Flickr
   url: http://www.flickr.com/photos/8047705@N02/5366637592/sizes/m/
   license: under CC-License
@@ -8,7 +8,7 @@ photo:
 title: A Gutsy Year for 2014
 created_at: 2013-12-31 20:40
 date: 2013-12-31T20:40:00-05:00
-image: 5366637592_perseverance.jpg
+image: 5366637592-perseverance.jpg
 categories: ["Diary"]
 description: Ben Wilson thinks he's going to write 150,000 words in 2014. Read more
   so you can openly mock him when he fails.

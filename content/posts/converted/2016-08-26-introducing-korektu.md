@@ -8,7 +8,7 @@ tags:
  - Publishing
 photo:
     license: "Rights Reserved"
-    image: korektu_screenshot.png
+    image: korektu-screenshot.jpg
     creator: Ben Wilson
     url: http://dausha.net
     caption: "Screenshot of GitHub Issues List"

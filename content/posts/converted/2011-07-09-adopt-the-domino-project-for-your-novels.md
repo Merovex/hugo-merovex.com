@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 2391828247_7016a8a66f-dominos.jpg
+  image: 2391828247-7016a8a66f-dominos.jpg
   creator: Malkav/Flickr
   url: http://www.flickr.com/photos/67025584@N00/2391828247/
   license: under CC BY 2.0

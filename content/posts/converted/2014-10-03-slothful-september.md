@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 8151888421_4c6e74887c_z-facepalm.jpg
+  image: 8151888421-4c6e74887c-z-facepalm.jpg
   creator: Guilhem Vellut/Flickr
   url: https://www.flickr.com/photos/22539273@N00/8151888421/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: Slothful September
 created_at: 2014-10-03 10:44
 date: 2014-10-03T10:44:56-04:00
-image: 8151888421_4c6e74887c_z-facepalm.jpg
+image: 8151888421-4c6e74887c-z-facepalm.jpg
 categories: ["Diary"]
 keywords: writing, plan, goals
 description: "Ben explains his activites over September -- Slothful."

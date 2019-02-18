@@ -7,7 +7,7 @@ date: 2016-02-11T18:59:49-05:00
 author: Ben Wilson
 photo:
     license: "CC BY 2.0"
-    image: 1623358150_6e5c75cff0_o.jpg
+    image: 1623358150-6e5c75cff0-o.jpg
     creator: Tony Webster/Flickr
     url: https://www.flickr.com/photos/87296837@N00/1623358150/
     caption: "Not a Purchase Option"

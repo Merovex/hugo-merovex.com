@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 288389345_f31156f5d6_o.jpg
+  image: 288389345-f31156f5d6-o.jpg
   creator: dariuszka/Flickr
   url: https://www.flickr.com/photos/83394598@N00/288389345/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: Quiet Rituals of a Negligibly Successful Writer
 created_at: 2014-12-07 08:08
 date: 2014-12-07T08:08:06-05:00
-image: 288389345_f31156f5d6_o.jpg
+image: 288389345-f31156f5d6-o.jpg
 categories: ["Diary"]
 description: After recently reading an article of rituals of successful people, I
   wanted to share some thoughts on how those rituals apply to me.

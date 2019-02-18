@@ -6,7 +6,7 @@ categories: ["philosophy"]
 tags: ['Church History']
 photo:
   ximage: king-george-turd.jpg
-  image: Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg
+  image: allan-ramsay-king-george-iii-in-coronation-robes-google-art-project.jpg
   creator: Allan Ramsay
   url: https://en.wikipedia.org/wiki/File:Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg
   license: Public Domain

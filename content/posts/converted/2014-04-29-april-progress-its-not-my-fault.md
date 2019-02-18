@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 7770199719-USCapitol.jpg
+  image: 7770199719-uscapitol.jpg
   creator: VinothChandar/Flickr
   url: http://www.flickr.com/photos/44345361@N06/4770199719/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: 'April Progress: It''s Not My Fault'
 created_at: 2014-04-29 19:18
 date: 2014-04-29T19:18:59-04:00
-image: 7770199719-USCapitol.jpg
+image: 7770199719-uscapitol.jpg
 categories: ["Diary"]
 description: April was a very slow month of writing. I jokingly say it's not my fault,
   but it is.

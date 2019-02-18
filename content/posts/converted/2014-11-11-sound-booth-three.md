@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 2541312543_303697aae8_b-Snails.jpg
+  image: 2541312543-303697aae8-b-snails.jpg
   creator: Cloudzilla/Flickr
   url: https://www.flickr.com/photos/46261842@N00/2541312543/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: So I'm Building a VO Sound Booth, Pt 3
 created_at: 2014-11-11 17:12
 date: 2014-11-11T17:12:54-05:00
-image: 2541312543_303697aae8_b-Snails.jpg
+image: 2541312543-303697aae8-b-snails.jpg
 categories: ["Technology"]
 keywords: writing, plan, goals
 description: The final story in the saga of a privately owned Voice Over Booth. After

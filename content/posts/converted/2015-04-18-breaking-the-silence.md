@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 3400504522_dcc68458ce-silence.jpg
+  image: 3400504522-dcc68458ce-silence.jpg
   creator: swimfinfan/Flickr
   url: https://www.flickr.com/photos/12842055@N03/3400504522/
   license: under CC BY-SA 2.0
@@ -8,7 +8,7 @@ photo:
 title: Breaking the Silence
 author: Ben Wilson
 description: After a few hard months, I'm back in business.
-image: 3400504522_dcc68458ce-silence.jpg
+image: 3400504522-dcc68458ce-silence.jpg
 categories: ["Diary"]
 date: 2015-04-18T21:04:00-04:00
 created_at: 2015-04-18 19:40

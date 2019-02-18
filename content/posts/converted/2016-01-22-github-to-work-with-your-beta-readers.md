@@ -5,7 +5,7 @@ description: "One advantage of using GitHub is the ability to collaborate with y
 categories: ["Technology"]
 tags: [Scrivener, GitHub as an Author]
 photo:
-  image: 2959200147_3661ed086e_b.jpg
+  image: 2959200147-3661ed086e-b.jpg
   creator: Nick Quaranto/Flickr
   url: https://www.flickr.com/photos/31679616@N08/2959200147/
   license: under CC BY-SA 2.0

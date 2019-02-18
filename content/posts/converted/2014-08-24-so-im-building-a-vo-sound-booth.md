@@ -1,6 +1,6 @@
 ---
 photo:
-  image: IMG_20140824_084337.jpg
+  image: img-20140824-084337.jpg
   creator: Ben Wilson
   url: http://dausha.net
   license: CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: So I'm Building a VO Sound Booth
 created_at: 2014-08-24 08:47
 date: 2014-08-24T08:47:43-04:00
-image: IMG_20140824_084337.jpg
+image: img-20140824-084337.jpg
 categories: ["Technology"]
 keywords: vo, voice over, sound booth, iso booth, audio book
 description: Ben discusses the intricate steps in preparing for a voice-over career

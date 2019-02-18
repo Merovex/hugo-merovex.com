@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 164361902_cae775b4c7_z-microphone.jpg
+  image: 164361902-cae775b4c7-z-microphone.jpg
   creator: Julián Rodriguez Orihuela/Flickr
   url: https://www.flickr.com/photos/17513020@N00/164361902/
   license: under CC BY 2.0
@@ -9,7 +9,7 @@ layout: single
 title: Here Be Dragons, Dictating
 created_at: 2014-08-17 08:28
 date: 2014-08-17T08:28:39-04:00
-image: 164361902_cae775b4c7_z-microphone.jpg
+image: 164361902-cae775b4c7-z-microphone.jpg
 categories: ["Technology"]
 keywords: writing, plan, goals
 description: "With this being National Disability Awareness Month, I wanted to chat about how I used Dragon with a plot problem."

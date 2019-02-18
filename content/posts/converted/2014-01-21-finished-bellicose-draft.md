@@ -1,6 +1,6 @@
 ---
 photo:
-  image: bellicose_redo_wallpaper.jpg
+  image: bellicose-redo-wallpaper.jpg
   creator: DHM Designs
   url: "#"
   license: Rights Reserved
@@ -9,7 +9,7 @@ layout: single
 title: 'Finished Bellicose Draft'
 created_at: 2014-01-21 19:21
 date: 2014-01-21T19:21:07-05:00
-image: bellicose_redo_wallpaper.jpg
+image: bellicose-redo-wallpaper.jpg
 tags: 
   - Postal Marines Series
   - Writing Progress

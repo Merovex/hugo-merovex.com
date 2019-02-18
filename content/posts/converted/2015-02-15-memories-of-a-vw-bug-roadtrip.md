@@ -1,6 +1,6 @@
 ---
 photo:
-  image: 10311138444_c61af6d054.jpg
+  image: 10311138444-c61af6d054.jpg
   creator: Digo Souza/Flickr
   url: https://www.flickr.com/photos/9783357@N08/10311138444/
   license: under CC BY-ND 2.0
@@ -9,7 +9,7 @@ title: Memories of a VW Bug Roadtrip
 author: Ben Wilson
 description: I always wanted my first car to be a Bug. I eventually owned two. This
   is a story of one road trip.
-image: 10311138444_c61af6d054.jpg
+image: 10311138444-c61af6d054.jpg
 categories: ["vw beetle"]
 created_at: 2015-01-18 22:03
 date: 2015-02-15T09:03:00-05:00

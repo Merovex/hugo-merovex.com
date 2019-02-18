@@ -1,6 +1,6 @@
 ---
 photo:
-  image: bellicose_redo_wallpaper.jpg
+  image: bellicose-redo-wallpaper.jpg
   creator: DHM Designs
   url: "#"
   license: Rights Reserved
@@ -9,7 +9,7 @@ title: The Bafiktuy Directive
 author: Ben Wilson
 description: In Bellicose you meet Admiral Bence, an individual who seems completely
   out of his element. That's because he is not an admiral, but a member of the Bafiktuy.
-image: bellicose_redo_wallpaper.jpg
+image: bellicose-redo-wallpaper.jpg
 categories: ["postal marine series"]
 date: 2015-01-31T11:22:00-05:00
 created_at: 2015-01-31 11:19
