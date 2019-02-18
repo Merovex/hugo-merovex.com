@@ -11,7 +11,7 @@ date: 2015-01-11T16:50:23-05:00
 image: 3210361541-c2d900c0ac-o.jpg
 categories: ["Writing"]
 keywords: kindle unlimited, self-publisher, quitters
-description: Earlier this week, a fellow self-publisher complained about the negative impact of Kindle Unlimited. I disagreed with her. Either way, the market is not driving me out.
+description: Changes in the market should not be a reason to complain, but to improve.
 author: Ben Wilson
 tags:
 - Publishing

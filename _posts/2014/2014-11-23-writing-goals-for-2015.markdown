@@ -12,9 +12,9 @@ modified_at: 2014-11-23 12:00
 published_at: 2014-11-23 12:00
 date: 2014-11-23 12:00:54.000000000 -05:00
 image: 3193517030_b9b9c1b635_b.jpg
-category: Diary
+category: Writing
 keywords: writing, plan, goals
-description: November is barely half-over and I'm making 2015's writing plans. This year has been very educational in terms of writing under something resembling a schedule. I'd like to make the most of it.
+description: 2014 year was been very educational in terms of writing under something resembling a schedule. I'd like to make the most of it.
 author: Ben Wilson
 tags:
 - Goals
