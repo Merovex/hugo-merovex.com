@@ -6,6 +6,10 @@ copyright: 1998
 taxonomies:
   tag: tags
   category: categories
+permalinks:
+  posts: /posts/:title/
+paginate: 12
+
 
 author:
   name: Ben Wilson
