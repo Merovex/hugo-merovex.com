@@ -5,7 +5,7 @@ description: "When it comes to clutter, most of us would part with our books whe
 categories: ['diary']
 tags: [bad advice]
 photo:
-  image: book-burning.jpg
+  image: the-house-of-leaves-burning-4.jpg
   creator: Public Domain
   url: https://commons.wikimedia.org/wiki/File:The_House_of_Leaves_-_Burning_4.jpg
   license: Public Domain (CC0)
