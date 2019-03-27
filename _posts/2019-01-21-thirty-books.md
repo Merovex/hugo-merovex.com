@@ -17,13 +17,13 @@ The current fad organizer [Marie Kondo](https://www.livible.com/blog/ultimate-ko
 
 <!--more-->
 
+Why 30 books? The average book-sized moving box holds 20-50 books, depending on the type of book. A common rule of thumb I ran into when researching this question was that a book-sized box will hold 30 books. So, her number is likely based on that Internet estimate. Mystery solved.
+
 I am honored to have friends who recoiled in shock at the suggestion that they could have _only 30 books_. I calmed them down by saying that Ms. Kondo's advice is "per year of age." Thus at 50, one could have 1,500 books. Everyone agreed that this is what Kondo meant.
 
 CNN wrote an [article defending Kondo](https://www.cnn.com/2019/01/18/entertainment/marie-kondo-books/index.html) asserting her point that "if getting rid of the books makes you angry, then don't." Her catch phrase is decluttering causes joy. Therefore, if getting rid of books causes anti-joy, don't do it. Only do what makes you happy.
 
 I have hundreds of books. In an answer to a question my brother once asked: "I've read some of all of them, all of some of them." But, I'm finding increasingly that I have books I have never read. These are books of clutter. Not only do I have hundreds of books, I've donated hundreds still.
-
-One question I had was "why 30 books?" I believe it's because a book-sized moving b
 
 ## Her Method
 

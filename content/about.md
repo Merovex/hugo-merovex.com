@@ -14,7 +14,7 @@ Ben Wilson is a science fiction writer, husband, father, project manager, lover 
 
 ### Ben in 50-ish Words
 
-Ben Wilson is a science fantasy writer. He’s into history, human nature and religious studies. He is the author of the [Postal Marine Series](/#books), though he eventually wants to write four novel series. His books are available on [Amazon](http://www.amazon.com/Ben-Wilson/e/B001JSB9SY) Ben lives in Arlington, Virginia with his wife three children, and Milo the friendly cat.
+Ben Wilson is a science fantasy writer. He’s into history, human nature and religious studies. He is the author of the [Stranded Series](/#books), though he eventually wants to write four novel series. His books are available on [Amazon](http://www.amazon.com/Ben-Wilson/e/B001JSB9SY). Ben lives in Tysons, Virginia with his wife, three children, and two rabid attack cats. He pays bills by frustrating people through ineffective change management.
 
 ### Why I write
 
@@ -22,11 +22,11 @@ Ben Wilson is a science fantasy writer. He’s into history, human nature and re
 >
 > <cite>Ben Wilson</cite>
 
-When friends and co-workers find that I write novels, I explain that I am a poor writer of bad Science Fiction. I don’t pretend to write the Great (Insert Nationality Here) Novel, or even the most provocative. I just write and try to improve.
+When friends and co-workers find that I write novels, I explain that I am a poor writer of bad Science Fiction. I don’t pretend to write the Great American Novel, or even the most provocative. I just write and try to improve.
 
 I’ve had the yen for storytelling my whole life. It started listening to my dad tell funny stories when I was a boy. I picked up his talent for oral story telling. My first career was in the military, which is a story-telling culture, where I honed my talent. I’ve yearned to write for thirty years and began to more seriously apply myself in recent years. It’s not the easiest process in the world, but I enjoy putting the words to screen. I hope you enjoy what you read. If you’d like to share with me ways you think the story could be improved, I’d love to have you in my community.
 
-The **Postal Marine Series** follows the careers of two Imperial Postal Marines, Bophendze and Litovio.
+I think of my audience is similar to me. We're Christians who know there is something more to this life than we're able to lead. They have (or want to have) families and are doing their best to lead them into an uncertain world.
 
 ## What Others Say About My Novels
 
@@ -46,15 +46,15 @@ Ben Wilson lives in Northern Virginia with his wife, kids and a cat. -->
 
 The site is written in [HTML5](http://en.wikipedia.org/wiki/HTML5)
 with [Cascading Style Sheets (CSS)](http://en.wikipedia.org/wiki/Css)
-and delivered using [Jekyll](http://jekyllrb.com/).
+and delivered using [Hugo](https://gohugo.io/).
 
 [Google Firebase](https://firebase.google.com/) provides the Platform as a Service (PaaS), which lets one host for free if the traffic’s not too heavy. Hey, if [Netflix](http://netflix.com) can be the largest consumer of public cloud infrastructure, I can use Github.
 
 The style was designed by Ben Wilson, using [Bootstrap](https://getbootstrap.com) as its foundation, borrowing from [Bootswatch](https://bootswatch.com/) rendered in [SASS](http://sass-lang.com/).
-Non-standard web fonts are provided courtesy of [Google](http://www.google.com/webfonts). However, I'm using [font reboot](https://v4-alpha.getbootstrap.com/content/reboot/#native-font-stack) so the page looks native on your computer.
+Non-standard web fonts are provided courtesy of [Google](http://www.google.com/webfonts).
 
 Site content is authored on my local computer using [Atom](https://atom.io/).
-Jekyll lets me use [Markdown](http://daringfireball.net/projects/markdown/) in all its glory.
+Hugo lets me use [Markdown](http://daringfireball.net/projects/markdown/) in all its glory.
 Having previously used [PmWiki](http://pmwiki.org/) for web sites, being able to use pure Markdown is just plain fun.
 [Git](http://git-scm.com/) provides the transport mechanism to deliver the code to the web server.
 

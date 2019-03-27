@@ -1,4 +1,4 @@
-baseURL: "http://merovex.com/"
+baseURL: "https://merovex.com/"
 languageCode: "en-us"
 title: "Merovex"
 theme: "merovex-light"
@@ -9,13 +9,17 @@ taxonomies:
 permalinks:
   posts: /posts/:title/
 paginate: 12
+descripton: "None"
 
+protocols:
+  fb_app_id: 123
 
 author:
   name: Ben Wilson
   github: spf13
   linkedin: YOUR LINKEDIN ID
   facebook: YOUR FB ID
+  twitter: "@merovex"
   gaID: YOUR Google Analytics Tracking ID
 
 menu:
