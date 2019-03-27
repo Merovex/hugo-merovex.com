@@ -1,0 +1,15 @@
+---
+---
+/* SITE */
+Last Updated: {{ site.time | date:"%Y/%m/%d" }}
+Language: English
+Doctype: HTML5
+IDE: Atom
+Standards: HTML5, CSS3
+Components: JQuery, Modernizr, Bootstrap
+Software: Hugo
+
+/* TEAM */
+Author: Ben Wilson
+Facebook: https://www.facebook.com/MerovexPress/
+Twitter: @merovex
