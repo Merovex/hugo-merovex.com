@@ -19,7 +19,7 @@ modified_at: 2018-04-18 20:13
 created_at: 2018-04-18 19:47
 ---
 
-I was told once to find a public figure to look up to and emulate. There are thousands of great leaders, artists, musicians and philanthropists to chose from. I found one I could emulate. Anakin was a man who took all that life would throw at him, re-invented himself, succeed and remain humble.
+I was told once to find a public figure to look up to and emulate. There are thousands of great leaders, artists, musicians and philanthropists to chose from. I found one I could emulate. Anakin was a man who took all that life would throw at him, re-invented himself, succeeded and remained humble.
 
 <!-- more -->
 
@@ -31,7 +31,7 @@ A principled man, when confronted by corruption, violations against the rule of 
 
 He was betrayed by a so-called friend and disabled. His recovery showed that, even though disabled, he could fully continue to serve the government he risked all to defend. He would not let his disability define him.
 
-Anakin continued to rise through the government bureaucracy: going from a poor urchin to royalty. When given a dauntless task of eradicating those rebelling against the elected government, he time-and-again proved himself more than capable. When asked to take on a massive government works project and get it back on schedule, he leveraged his diplomacy and zeal to ensure it was ready to go into production when needed. He showed his humility in setting the goals of others, especially of his friend Palpatine, above his own.
+Anakin continued to rise through the government bureaucracy: going from a poor urchin to aristocracy---a Lord. When given a dauntless task of eradicating those rebelling against the elected government, he time-and-again proved himself more than capable. When asked to take on a massive government works project and get it back on schedule, he leveraged his diplomacy and zeal to ensure it was ready to go into production when needed. He showed his humility in setting the goals of others, especially of his friend Palpatine, above his own.
 
 Through this all, he still tried to find time for his children. Showing his high adaptability, he re-invented himself yet again and re-earned the affection of at least one of his children. A decision that pitted him against a career and found he knew that family mattered more. Even in death he showed humility and forwent the pomp and circumstance one would expect of a senior government official; his funeral was more in line with his humble beginnings.
 

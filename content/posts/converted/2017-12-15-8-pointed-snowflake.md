@@ -133,11 +133,13 @@ there's always that "sagging middle" that punctuates the middle of the second ac
 Snowflake expands the Summary sentences to paragraphs, then expands those paragraphs to pages. Mashing with Segments means we will have an 8-paragraph Synopsis, and 8-page Treatment. Snowflake 8 would then list each sentence in the Treatment as a Scene. Then it is up to you whether you want to expand each scene into a paragraph which would give you a fully developed story.
 
 **Evan's Marshall Plan Speaks to Segment Length.** What about Evan? He advises that each section (his term for scene) is roughly 1,250 words long. There is a side-effect to an eight-segment plan with 1,250 word segments, because <span style='white-space: nowrap'>8 &times; 1,250 = 10,000</span>. That is, there are as many sections in a segment as there are 10k words in a novel. In other words:
+
 * 60k word novel = 6-section segments
 * 80k word novel = 8-section segments
 * 100k word novel = 10-section segments
 
 The lead character's story should be two-thirds of the total section count divided:
+
 * < 65k words:  Hero + Subplot = 2/3; Opposition = 1/3
 * +65k words: Hero + Subplot = 2/3; Other Viewpoint Characters 9 sections each, with remainder sections allocated to Opposition.
 
