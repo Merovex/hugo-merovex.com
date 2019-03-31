@@ -10,7 +10,8 @@ photo:
   url: https://commons.wikimedia.org/wiki/File:The_House_of_Leaves_-_Burning_4.jpg
   license: Public Domain (CC0)
   caption: Modern Book Burning
-date: 2019-01-21 10:06
+created_at: 2019-01-21T08:43:29-04:00
+date: 2019-01-21T08:43:29-04:00
 ---
 
 The current fad organizer [Marie Kondo](https://www.livible.com/blog/ultimate-konmari-guide/) suggests that you should only have 30 books in your house. She espouses minimalism. Does she have a point?

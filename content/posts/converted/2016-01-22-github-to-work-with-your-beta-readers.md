@@ -2,7 +2,7 @@
 title: GitHub to Work with Your Beta Readers
 author: Ben Wilson
 description: "One advantage of using GitHub is the ability to collaborate with your beta readers."
-categories: ["Technology"]
+categories: ["Writing on Github"]
 tags: [Scrivener, GitHub as an Author]
 photo:
   image: 2959200147-3661ed086e-b.jpg
@@ -23,7 +23,7 @@ For the purpose of this article, issue and task management are synonymous.
 
 ## GitHub for Author Task Management
 
-I won't get into too much detail on how to use GitHub for task tracking. If you look at the [GitHub Features](https://github.com/features), they already do a find job of explaining the capability. 
+I won't get into too much detail on how to use GitHub for task tracking. If you look at the [GitHub Features](https://github.com/features), they already do a find job of explaining the capability.
 
 ## GitHub for Beta Reader Collaboration
 

@@ -3,7 +3,7 @@ title: Life Lessons from a Seal
 author: Ben Wilson
 description: "A Navy Seal with 36-years of experience shares 10 life lessons."
 categories: ["Diary"]
-tags: []
+tags: [Life Hacks, Bad Advice]
 photo:
   image: sealcommander.jpg
   creator: UT Austin

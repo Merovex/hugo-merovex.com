@@ -2,8 +2,8 @@
 title: Strange Things Afoot
 author: Ben Wilson
 description: Given a choice between writing and updating the webiste, the website won.
-categories: ["Diary"]
-tags: [Website]
+categories: ["Technology"]
+tags: [Website, Author Outreach]
 photo:
   image: 25073539962-6fa58058d3-o.jpg
   creator: DC Master/Flickr

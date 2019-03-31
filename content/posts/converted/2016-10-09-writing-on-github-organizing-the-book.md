@@ -1,7 +1,7 @@
 ---
 author: Ben Wilson
 title: "Writing on Github: Organizing the Book"
-categories: ["Writing"]
+categories: ["Writing on Github"]
 tags:
  - NaNoWriMo
  - GitHub as an Author

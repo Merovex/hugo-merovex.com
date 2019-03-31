@@ -1,5 +1,5 @@
 DirectoryPath: "public"
-EnforceHTTPS: true
+EnforceHTTPS: false
 CacheExpires: "6h"
 OutputLogFile: ./htmltest.log
 LogLevel: 3

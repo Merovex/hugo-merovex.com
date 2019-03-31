@@ -1,11 +1,12 @@
 ---
 author: Ben Wilson
 title: Introducing Korektu
-categories: ["Technology"]
+categories: ["Writing on Github"]
 tags:
- - "GitHub as an Author"
+ - Toolchain
  - Jekyll
  - Publishing
+ - Technology
 photo:
     license: "Rights Reserved"
     image: korektu-screenshot.jpg
@@ -42,4 +43,3 @@ Unlike Pragmatic Programmer, Korektu does not currently allow the reader to view
 How does it work? I have the [source code available on GitHub](https://github.com/Merovex/korektu), with instructions on use. I released it under MIT license. I'm not competing with other authors, and this is a way to enrich the self-published author realm.
 
 In a nutshell, the Korektu is installed on a free Heroku instance, and the form that feeds it is integrated into your website. Since I use Jekyll, the form base is a layout, and each page provides the book-specific information (title, editions).
-

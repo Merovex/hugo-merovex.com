@@ -3,7 +3,7 @@ title: "Eight-Pointed Snowflake"
 author: Ben Wilson
 description: "How I approach structuring a novel."
 categories: ["writing craft"]
-tags: []
+tags: [writing, plotting]
 photo:
   image: 2017-09-11-06-30-53.jpg
   creator: Unknown

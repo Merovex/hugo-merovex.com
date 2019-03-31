@@ -4,6 +4,7 @@ title: "Must Barney Die? A Legal Opinion"
 categories: ["Diary"]
 tags:
  - Holiday
+ - Humor
 photo:
     license: "CC BY 2.0"
     image: 29995380264-ab8bbfa329-o.jpg

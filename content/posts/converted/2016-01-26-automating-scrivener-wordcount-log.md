@@ -2,7 +2,7 @@
 title: "Automating Scrivener: Wordcount Log"
 author: Ben Wilson
 description: "While shifting to Scrivener, I share how I automatically update my word count log out of Scrivener."
-categories: ["Technology"]
+categories: ["Writing on Github"]
 tags: [Scrivener, GitHub as an Author]
 photo:
   image: 5171765778-239c899bfd-o.jpg

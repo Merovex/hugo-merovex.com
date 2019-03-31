@@ -5,7 +5,7 @@ tags:
 photo:
   image: going-back-to-scrivener.jpg
   creator: Ben Wilson
-  url: http://dausha.net
+  url: https://merovex.com
   license: Rights Reserved
   caption: Screenshot of Scrivener Series
 title: Going Back to Scrivener

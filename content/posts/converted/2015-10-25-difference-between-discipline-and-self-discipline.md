@@ -2,8 +2,8 @@
 title: Discipline Verses Self-Discipline
 author: Ben Wilson
 description: "I recently hit upon a definition of self-discipline that struck a chord with my young children; so I thought I'd share it."
-categories: ["Diary"]
-tags: []
+categories: ["Philosophy"]
+tags: [bad advice]
 photo:
   image: 11384364343-b000dbdb8b-k.jpg
   creator: Raw Herring/Flickr

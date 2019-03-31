@@ -8,10 +8,11 @@ tags:
 - Website
 - Jekyll
 - PmWiki
+- Website
 photo:
   image: octopress-logo.jpg
   creator: David Lanham
-  url: http://dlanham.com
+  url: https://dlanham.com
   license: Rights Reserved
   caption: Octopress Logo
 date: 2015-10-12T18:44:00-04:00

@@ -4,6 +4,7 @@ subtitle: "My notes on David Brin's Lecture"
 categories: ["Philosophy"]
 tags:
  - Brin
+ - Resiliency
 date: 2016-02-06T14:53:31-05:00
 author: Ben Wilson
 photo:

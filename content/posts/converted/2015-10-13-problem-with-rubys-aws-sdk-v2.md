@@ -3,10 +3,11 @@ title: Ruby's AWS SDK v2 Solution
 author: Ben Wilson
 description: "During my transition to Jekyll, I was confronted by the AWS-SDK v2 gem update. I share my solution here."
 categories: ["Technology"]
-tags: 
+tags:
   - Ruby
   - Amazon
   - Jekyll
+  - Website
 photo:
   image: 3887934311-1476c75b17-b.jpg
   creator: SuperFantastic/Flickr
@@ -42,8 +43,8 @@ task :cdn do
       fd = File.open(file_path)
       obj = bucket.objects[bucket_path]
       obj.write(
-          fd, 
-          :acl => :public_read, 
+          fd,
+          :acl => :public_read,
           :cache_control => "max-age=#{age}",
           :content_type => c_type
       ) if (!obj.exists? || obj.last_modified < fd.mtime)
@@ -59,7 +60,7 @@ task :cdn do
     ENV['AWS_ACCESS_KEY_ID'] = s3_access
     ENV['AWS_SECRET_ACCESS_KEY'] = s3_secret
     ENV['AWS_REGION'] = s3_region   # Added for 2.0
-    
+
     Aws::S3::Client.new             # Changed for 2.0
     s3 = Aws::S3::Resource.new      # Changed for 2.0
     bucket = s3.bucket(s3_bucket)   # Changed for 2.0
@@ -76,4 +77,3 @@ task :cdn do
     end
   end
 ~~~
-

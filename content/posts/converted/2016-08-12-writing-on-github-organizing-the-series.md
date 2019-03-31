@@ -1,7 +1,7 @@
 ---
 author: Ben Wilson
 title: "Writing on Github: Organizing the Series"
-categories: [ "Writing"]
+categories: [ "Writing on Github"]
 date: 2016-08-12T00:00:00-04:00
 tags:
  - GitHub as an Author

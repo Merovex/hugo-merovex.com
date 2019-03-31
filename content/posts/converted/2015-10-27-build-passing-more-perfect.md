@@ -3,7 +3,7 @@ title: Build Passing. More Perfect?
 author: Ben Wilson
 description: For the first time in years, I have a website that has been fully vetted courtesy of Continuous Integration.
 categories: ["Technology"]
-tags: [Jekyll, Travis CI]
+tags: [Jekyll, Travis CI, Website]
 photo:
   image: 3940632819-f639081358-b.jpg
   creator: Marco Alioli/Flickr
@@ -27,4 +27,3 @@ Overall, my website comprises 202 files and 697 unique or external links. When I
 Thanks to Travis, every time I post new content, I will know within a few minutes if everything checks out. In theory, I should never again have a problem with broken links as long as I use Jekyll on GitHub.
 
 So, the Build passes tests, and the product is more perfect than I could have achieved myself.
-

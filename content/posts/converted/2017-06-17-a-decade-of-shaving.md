@@ -3,7 +3,7 @@ title: A Decade of Decadent Shaving
 author: Ben Wilson
 description: I've used a safety razor for a decade, with some pleasant results.
 categories: ["Diary"]
-tags: []
+tags: [life hacks, Bad advice]
 photo:
   image: 858748400-c5bb4d9325-o.jpg
   creator: Matt Thompson/Flickr
