@@ -24,9 +24,16 @@ Ben Wilson is a science fantasy writer. He’s into history, human nature and re
 
 When friends and co-workers find that I write novels, I explain that I am a poor writer of bad Science Fiction. I don’t pretend to write the Great American Novel, or even the most provocative. I just write and try to improve.
 
-I’ve had the yen for storytelling my whole life. It started listening to my dad tell funny stories when I was a boy. I picked up his talent for oral story telling. My first career was in the military, which is a story-telling culture, where I honed my talent. I’ve yearned to write for thirty years and began to more seriously apply myself in recent years. It’s not the easiest process in the world, but I enjoy putting the words to screen. I hope you enjoy what you read. If you’d like to share with me ways you think the story could be improved, I’d love to have you in my community.
+I’ve had the yen for storytelling my whole life. It started listening to my dad tell funny stories when I was a boy. I picked up his talent for oral story telling. My first career was in the military, which is a story-telling culture, where I honed my talent. I’ve yearned to write for decades and began to more seriously apply myself in recent years. It’s not the easiest process in the world, but I enjoy putting the words to screen. I hope you enjoy what you read. If you’d like to share with me ways you think the story could be improved, I’d love to have you in my community.
 
-I think of my audience is similar to me. We're Christians who know there is something more to this life than we're able to lead. They have (or want to have) families and are doing their best to lead them into an uncertain world.
+### Who is my audience
+
+Seth Godin suggests defining my [minimum viable audience](https://seths.blog/2019/03/the-minimum-viable-audience-2/).
+
+I think of my audience is similar to me.
+We're Christians who know there is something more to this life than we're able to lead. We have deep flaws and know only God can help us move beyond them.
+We have (or want to have) families and are doing our best to lead them into an uncertain world.
+We recognize reality is God-centered, and yearn for fiction that feeds our worldview.
 
 ## What Others Say About My Novels
 
@@ -34,31 +41,20 @@ I think of my audience is similar to me. We're Christians who know there is some
 >
 > <cite>Dennis about Mondennio in _Scintilla_</cite>
 
-<!-- ## About Ben Wilson
-
-Ben Wilson loves learning and storytelling. Writing Science Fiction novels helps him do both. He started writing in his teens, and let life get in the way through his twenties. He has a wide range of interests, all of which are represented in his novels—somehow.
-
-He originally founded this site in 1998 to expand his technical expertise; extending an even earlier web site. Now dedicated to highlighting his literary endeavors.
-
-Ben Wilson lives in Northern Virginia with his wife, kids and a cat. -->
-
 ## Colophon
 
 The site is written in [HTML5](http://en.wikipedia.org/wiki/HTML5)
 with [Cascading Style Sheets (CSS)](http://en.wikipedia.org/wiki/Css)
 and delivered using [Hugo](https://gohugo.io/).
-
-[Google Firebase](https://firebase.google.com/) provides the Platform as a Service (PaaS), which lets one host for free if the traffic’s not too heavy. Hey, if [Netflix](http://netflix.com) can be the largest consumer of public cloud infrastructure, I can use Github.
+[Google Firebase](https://firebase.google.com/)
+provides the Platform as a Service (PaaS), which lets one host for free when the traffic is light.
 
 The style was designed by Ben Wilson, using [Bootstrap](https://getbootstrap.com) as its foundation, borrowing from [Bootswatch](https://bootswatch.com/) rendered in [SASS](http://sass-lang.com/).
 Non-standard web fonts are provided courtesy of [Google](http://www.google.com/webfonts).
 
-Site content is authored on my local computer using [Atom](https://atom.io/).
+Site content is authored on my local computer
+using [Atom](https://atom.io/).
 Hugo lets me use [Markdown](http://daringfireball.net/projects/markdown/) in all its glory.
-Having previously used [PmWiki](http://pmwiki.org/) for web sites, being able to use pure Markdown is just plain fun.
-[Git](http://git-scm.com/) provides the transport mechanism to deliver the code to the web server.
-
-Have I established my geek creds?
 
 ## Accessibility
 
@@ -67,7 +63,7 @@ I strive to make this website accessible for all users, including people with di
 Accessibility features included on the site are:
 
 * Skip links, ARIA landmarks and headings are defined to aid in page navigation.
-* Alternative text details for appropriate images and other non-text elements.
+* Alternative text details for non-decorative images and other non-text elements.
 * Structural markup is used appropriately to indicate headings, paragraphs and lists to aid in page comprehension and navigation.
 * Form labels are programmatically associated with form fields.
 * Data cells are associated in a data table with their headers.

@@ -6,7 +6,7 @@ categories: ['diary']
 tags: [bad advice]
 photo:
   image: the-house-of-leaves-burning-4.jpg
-  creator: Public Domain
+  creator: Wikimedia
   url: https://commons.wikimedia.org/wiki/File:The_House_of_Leaves_-_Burning_4.jpg
   license: Public Domain (CC0)
   caption: Modern Book Burning
