@@ -6,6 +6,7 @@ copyright: 1998
 taxonomies:
   tag: tags
   category: categories
+  series: series
 permalinks:
   posts: /posts/:title/
 paginate: 12

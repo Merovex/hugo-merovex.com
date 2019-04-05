@@ -18,8 +18,6 @@ Recently, Jamie Rubin talked about [using GitHub as an author](http://www.jamier
 
 <!--more-->
 
-Here is a link to my [Writing Logs](https://merovex.com/writing-logs/).
-
 A lot of people think of GitHub as a tool for geeks. While that may be true, there are a lot of things you can do that are not technologically related. For example, the [Github Services team uses GitHub](https://github.com/blog/2093-how-the-services-team-uses-github). As an organization, GitHub is committed to keeping all relevant organizational learning in their own tool.
 
 Authors don't have to be technology geeks, but it helps. As I [abandon my old toolchain](/posts/going-back-to-scrivener/), I found myself wondering how I was going to maintain my online progress logs...or as [2015 showed](/posts-logs/2015-progress/), lack of progress.

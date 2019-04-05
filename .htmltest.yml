@@ -3,5 +3,5 @@ EnforceHTTPS: false
 CacheExpires: "6h"
 OutputLogFile: ./htmltest.log
 LogLevel: 3
-IgnoreAltMissing: false
+IgnoreAltMissing: true
 CheckInternal: false
