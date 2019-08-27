@@ -1,4 +1,5 @@
 require 'time'
+raise "You've done this!".inspect
 def parseDate(s)
   ticker = Time.parse(s).iso8601
   # puts "-- #{ticker}"

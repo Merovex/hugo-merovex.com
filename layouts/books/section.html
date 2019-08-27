@@ -1,24 +1,23 @@
 {{ define "main" }}
-  <main class="container">
-    <header class="row">
-      <div class="mx-auto col-md-8">
-        <h1>{{ .Title }}</h1>
-        {{ .Content }}
-      </div>
+<body id='book'>
+  {{- partial "header.html" . -}}
+    <header>
+      <h1>{{ .Title }}</h1>
     </header>
+    <section>
+      {{ .Content }}
+    </section>
     {{ range $key, $value := $.Site.Taxonomies.series }}
-    <div class="row">
-      <article class="mx-auto col-md-8">
-        <h2>{{ humanize $key |title }} Series</h2>
-        {{ range $value.Pages }}
-        <section>
-          <h3>{{ .Title }}</h3>
-          <p>{{.Description}}</p>
-        </section>
-        {{ end }}
-      </article>
-    </div>
+    <article>
+      <h2>{{ humanize $key |title }} Series</h2>
+      {{ range $value.Pages }}
+      <section>
+        <h3>{{ .Title }}</h3>
+        <p>{{.Description}}</p>
+      </section>
+      {{ end }}
+    </article>
     {{ end }}
-  </main>
-  {{- partial "footer.html" . -}}
+{{- partial "footer.html" . -}}
+</body>
 {{ end }}
