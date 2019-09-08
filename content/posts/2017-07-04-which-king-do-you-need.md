@@ -27,7 +27,7 @@ While Voris generally failed in his arguments due to an over-reliance on logical
 
 ## God Permits Idolatry
 
-Voris' question fails to take into consideration Biblical history. After the Flood, the people sought a way to remain united (rather than disburse as God commanded), leading to the Tower of Babel. After 400 years of bondage, God freed his people from Egyptian captivity. Because they were unwilling to rely on his promise, he subjected them to two generations of wandering. They demanded a king only a few generations after attaining the promised land. God warned them of the despotism that would befall an autocrat. They persisted and he relented. One thousand years before Christ, the Israelites got their king. As a result, they suffered for centuries.
+Voris' question fails to take into consideration Biblical history. After the Flood, the people sought a way to remain united (rather than disperse as God commanded), leading to the Tower of Babel. After 400 years of bondage, God freed his people from Egyptian captivity. Because they were unwilling to rely on his promise, he subjected them to two generations of wandering. They demanded a king 350 years after attaining the Promised Land. God warned them of the despotism that would befall an autocrat. They persisted and he relented. One thousand years before Christ, the Israelites got their king. As a result, they suffered for centuries.
 
 However, God always kept a few loyal followers to restore his people. From the Old Testament, we see God expects a direct relationship with his people without an intermediary. We also see that humans fail to follow God directly as a rule, not as an exception. Through the book of Acts, we see instances of Christians in disagreement&mdash;so this is not a matter of the Old Testament alone.
 
@@ -40,15 +40,15 @@ First Corinthians was written in around 57 AD, two decades before Peter's martyr
 > <sup>10</sup>I appeal to you, dear brothers and sisters, by the authority of our Lord Jesus Christ, to live in harmony with each other. Let there be no divisions in the church. Rather, be of one mind, united in thought and purpose. <sup>11</sup>For some members of Chloe’s household have told me about your quarrels, my dear brothers and sisters. <sup>12</sup>Some of you are saying, “I am a follower of Paul.” Others are saying, “I follow Apollos,” or “I follow Peter,” or “I follow only Christ.” <sup>13</sup>Has Christ been divided into factions? Was I, Paul, crucified for you? Were any of you baptized in the name of Paul? Of course not!
 > <cite>1 Cor 1:10-13</cite>
 
-Paul observes in 1 Corinthans 1:18-31 that no human leader can compare to God in wisdom and power, and that we should boast alone in God, not in a human leader. He then emphasizes God's message: "The one who boasts must boast in the Lord."
+Paul observes that no human leader can compare to God in wisdom and power, and that we should boast alone in God, not in a human leader. (1 Cor 1:18-31) He then emphasizes God's message: "The one who boasts must boast in the Lord."
 <cite>(1 Cor 1:31, citing Jer 9:24)</cite>
 
-Through Chapter 2, Paul explores wisdom and power. He observes no human can speak for God,
+Then, Paul explores wisdom and power. He observes no human can speak for God,
 <cite data-toggle="tooltip" data-placement="top" title="...no one comprehends the thoughts of God except the Spirit of God.">(1 Cor 2:11)</cite>
 and that any Christian can understand God's wisdom through God alone, observing that "[Christians] have the mind of Christ."
 <cite>(1 Cor 2:14&ndash;16)</cite>
 
-In Chapter 3, he asserts that those who follow a human spiritual leader are nonspiritual people.
+Paul asserts that those who follow a human spiritual leader are nonspiritual people.
 <cite data-toggle="tooltip" data-placement="top" title="For whenever someone says, “I’m with Paul,” and another, “I’m with Apollos,” are you not unspiritual people?">(1 Cor 3:4)</cite>
 He observes that he, Peter, Apollos and others are servants who each serve a specific role, but that Christ is the leader.
 <cite data-toggle="tooltip" data-placement="top" title="[We] are servants through whom you believed, and each has the role the Lord has given...That foundation is Jesus Christ.">(1 Cor 3:5&ndash;11)</cite>
